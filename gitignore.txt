@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Databases (Prevents your local student data from being uploaded)
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
